@@ -1,0 +1,47 @@
+	body, html {
+		padding: 0px;
+		margin: 0px;
+	}
+	.aligncenter {
+    	text-align: center;
+	}
+	nav {
+		top: 80px;
+		position: absolute;
+		
+	}
+	ul {
+		list-style-type: none;
+	}
+	a {
+		font-size: 28pt;
+		text-decoration: none;
+	}
+	.curr {
+		color: #ffffff;
+	}
+	.notCurr {
+		color: #002699;
+	}
+	.notCurr:hover {
+		color: #99b3ff;
+	}
+	body {
+		background-image: url(http://clipart-library.com/images/8cGbeak4i.jpg);
+	}
+	h1 {
+		font-family: 'Cinzel', serif;
+		font-size: 40pt;
+		background-color: black;
+		color: #ffffff;
+	}
+
+	li {
+	font-family: 'Amiri', serif;
+	}
+	h2 {
+	font-family: 'Cinzel', serif;
+	}	
+	p {
+	font-family: 'Playfair Display', serif;
+	}
