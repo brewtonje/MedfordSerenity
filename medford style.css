@@ -49,9 +49,7 @@
 	}
 	div.fixed {
 			position: fixed;
-			bottom:80%;
 			left: 50%;
 			transform: translateX(-50%);
 			width: 100%;
-			top: -3%
 		}
